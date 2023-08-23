@@ -263,6 +263,10 @@
 		"debugExceptionWidget.background": "#f6f8fa",
 		"debugExceptionWidget.border": "#e0e4e8"
 	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		
+	},
 	"tokenColors": [
 
 	]
