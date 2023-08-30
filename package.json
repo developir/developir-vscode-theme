@@ -12,10 +12,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Developir Theme",
+        "label": "Developir Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/Developir Theme-color-theme.json"
-      }
+        "path": "./themes/developir-light-theme-color-theme.json"
+      },
+      {
+				"label": "Developir Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/developir-dark-theme-color-theme.json"
+			}
     ]
   }
 }
