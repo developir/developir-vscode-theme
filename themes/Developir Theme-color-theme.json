@@ -265,7 +265,24 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		
+		"number": 		"#444444",
+		"comment": 		"#a5a5a5",
+		"keyword": 		"#245ed1",
+		"operator": 	"#245ed1",
+		"function": 	"#e20505",
+		"method": 		"#e20505",
+		"variable": 	"#ff9500",
+		"parameter": 	"#eab701",
+		"property": 	"#A05A48",
+		"enumMember": 	"#A05A48",
+		"string": 		"#1d990a",
+		"interface": 	"#7030a0",
+		"type": 		"#7030a0",
+		"typeParameter": 	"#df0ab8",
+		"enum": 			"#df0ab8",
+		"namespace": 		"#df0ab8",
+		"class": 			"#df0ab8",
+		"class.defaultLibrary": "#df0ab8",
 	},
 	"tokenColors": [
 
