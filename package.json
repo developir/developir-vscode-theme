@@ -1,6 +1,6 @@
 {
   "name": "developir-theme",
-  "displayName": "developir-theme",
+  "displayName": "Developir Theme",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,10 +12,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Developir Theme",
+        "label": "Developir Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/Developir Theme-color-theme.json"
-      }
+        "path": "./themes/developir-light-theme-color-theme.json"
+      },
+      {
+				"label": "Developir Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/developir-dark-theme-color-theme.json"
+			}
     ]
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/developir/developir-vscode-theme"
+	}
 }
