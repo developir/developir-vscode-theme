@@ -397,6 +397,7 @@
 			"name": "operator: + - * /, == === > < <= >= ! !==, ++, %, ... spread, && ||, ??, in, new, instanceof, | union type, ternary ? : , keyof type, ? optional type, delete, for of in, optional property type",
 			"scope": [
 				"keyword.operator",
+				"keyword.operator.assignment.compound",
 				"keyword.other",
 			],
 			"settings": {"foreground": "#245ed1"}
