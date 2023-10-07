@@ -601,7 +601,8 @@
 			"scope": [
 				"variable.other.property",
 				"variable.other.object.property",
-				"meta.object-literal.key"
+				"meta.object-literal.key",
+				"support.variable.property"
 			],
 			"settings": {"foreground": "#A05A48"}
 		},
@@ -720,6 +721,7 @@
 			"name": "module, namespace",
 			"scope": [
 				"entity.name.type.module",
+				"support.type.object.module.js",
 			],
 			"settings": {"foreground": "#df0ab8"}
 		},
